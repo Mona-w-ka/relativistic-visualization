@@ -1,0 +1,10 @@
+*.exe
+*.out
+relativistic
+figure.dat
+figure.png
+plot_figure.gnu
+.vscode/
+.clangd/
+*.swp
+*~
